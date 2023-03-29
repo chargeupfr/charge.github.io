@@ -1,0 +1,51 @@
+/* body {
+  background-image: url("mark.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+} */
+  h1 {
+    color: white;
+  }
+  p {
+    color: grey;
+  }
+
+  h1 {
+    color: black;
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 300%;
+    text-shadow: 2px 2px white;
+  }
+
+  p {
+    color: black;
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 130%;
+  }
+
+  h2 {
+    color: black;
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 300%;
+    text-shadow: 2px 2px white;
+  }
+  @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+
+pre {
+    color: black;
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 130%;
+  }
+
+  li{
+    color: black;
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 130%;
+  }
+
+
+
+  
+
+ 
